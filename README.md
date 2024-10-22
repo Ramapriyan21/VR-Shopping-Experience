@@ -22,7 +22,7 @@ To run this project, you will need:
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Ramapriyan21/VR-Shopping-Experience.git
    ```
 2. Open the project in Unity: Launch Unity Hub and select the cloned project folder.
 3. Set up your build settings for Meta Quest 2: Go to File > Build Settings. Select Android as the target platform. Under XR Plug-in Management, select Oculus as the Virtual Reality SDK.
