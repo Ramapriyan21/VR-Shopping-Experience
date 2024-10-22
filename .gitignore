@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and folders
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.tmp
+*.apk
+*.csproj
+*.vscode/
+*.DS_Store
+
+# Ignore Unity temporary files and build results
+Library/
+Temp/
+Build/
+Builds/
+ProjectSettings/
+Packages/

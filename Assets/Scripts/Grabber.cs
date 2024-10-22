@@ -39,7 +39,7 @@ public class Grabber : MonoBehaviour
                 grabbed = null;
                 lGrabbed = false;
                 transform.parent.GetComponent<BoxCollider>().enabled = true;
-grabbed.GetComponent<BoxCollider>().enabled = true;
+                grabbed.GetComponent<BoxCollider>().enabled = true;
 
             }
             else
