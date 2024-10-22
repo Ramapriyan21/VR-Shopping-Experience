@@ -42,10 +42,7 @@ To run this project, you will need:
 - **Payment Gateway Integration**: Enable users to purchase items directly within the virtual store.
 - **AI-Powered Recommendations**: Implement machine learning for personalized product suggestions based on user preferences and browsing history.
 
-## Contributing
+## License
 
-Contributions to this project are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please reach out through [GitHub Issues](https://github.com/MAYURDEVADIGA/VR-Shopping-experience/issues).
